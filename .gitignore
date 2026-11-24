@@ -1,1 +1,14 @@
+# Ignore temporary files
+*.tmp
 
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Node dependencies
+node_modules/
